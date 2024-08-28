@@ -1,0 +1,5 @@
+*.mp4
+/data
+*.pptx
+.DS_Store
+*.zip
